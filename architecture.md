@@ -1,8 +1,10 @@
 # Architecture & Planning
 
-### Principles
+### Concepts
 * Gentle Density
-* Design for 100 years
+* Design for 100 Years
+* Visual coherence
+* Multi-scale Ornamentation
 
 ### Twitter
 Here's a [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites, including the following:
@@ -13,3 +15,31 @@ Here's a [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my
 * Ireland @ImprctclArchtct
 * Starchitect @LeonKrier
 * History @Trad_Arch_Bdays
+
+### Prizes
+
+Driehaus Architecture Prize
+
+### Case Studies
+##### Interesting Cities
+Gentle Density
+* Barcelona
+* Paris
+* Amsterdam
+* Copenhagen
+* Istanbul
+* Delhi
+
+High Rise
+* New York
+
+Housing Estate Sprawl
+* Greater Dublin
+
+##### Countries
+Many Cities
+* Germany
+
+One Dominant City
+* Ireland
+* England
