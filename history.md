@@ -1,6 +1,7 @@
 # Ancient Rome
 There's a great podcast called **The History of Rome** Podcast, by Mike Duncan. 
-* [Wikipedia Page](https://en.wikipedia.org/wiki/The_History_of_Rome_(podcast)), [Official Website](https://thehistoryofrome.typepad.com/the_history_of_rome/2010/01/80-optimus-trajan.html), [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474)
+* [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9oaXN0b3J5b2Zyb21lLmxpYnN5bi5jb20vcnNz)
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474)
 
 More Links:
 * The Twelve Caesars 
