@@ -18,7 +18,7 @@ Here's a [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my
 
 ### Prizes
 
-The most famous Architecture prize is probably the Pritzker Prize. One critique of Architecture Prizes is that they encourage design to impress Peers and Judges instead of users and locals. The Pritzker Prize for example, focuses on a narrow range of styles. It rewards surprising modernist buildings and and ignores beautiful contemporary traditional buildings. I found it intersting to walk through the [Laureates list on wikipedia](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize#Laureates). There's a real contrast between the modernist buildings winning prizes ceremony locations which are invariably in traditional style buildings!
+The most famous Architecture prize is probably the Pritzker Prize. One critique of Architecture Prizes is that they encourage design to impress Peers and Judges instead of users and locals. The Pritzker Prize for example, focuses on a narrow range of styles. It rewards surprising modernist buildings and and ignores beautiful contemporary traditional buildings. I found it intersting to walk through the [Laureates list on wikipedia](https://en.wikipedia.org/wiki/Pritzker_Architecture_Prize#Laureates); there's a real contrast between the modernist buildings winning prizes and the ceremony locations which are invariably in traditional style buildings!
 
 Anyhow, the [Driehaus Architecture Prize](https://en.wikipedia.org/wiki/Driehaus_Architecture_Prize) recognises contemporary traditional and classical architecture. If that  interests you it's nice to look through the portfolios of past winners and see some recent buildings that are in a traditional style.
 
