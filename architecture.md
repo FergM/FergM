@@ -41,6 +41,7 @@ Housing Estate Sprawl
 ##### Countries
 Many Cities
 * Germany
+* Switzerland
 
 One Dominant City
 * Ireland
