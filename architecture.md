@@ -9,8 +9,9 @@
 ### Twitter
 Here's a [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites, including the following:
 * Gentle Density @createstreets
-* Classic Planning @Nir_Buras
+* Urbanism @SCP_Hughes
 * Beautiful Threads @wrathofgnon
+* Classic Planning @Nir_Buras
 * London @RobertKwolek
 * Ireland @ImprctclArchtct
 * Starchitect @LeonKrier
