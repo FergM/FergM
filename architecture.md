@@ -49,6 +49,15 @@ One Dominant City
 * England
 
 # Rolling
+Houses that look like houses:
+* Nowadays houses don't always look like houses
+* However often when the objective is to look good, traditional house designs are still chosen.
+* For example:
+    * Films
+    * Theme Parks
+    * Toys
+    * Advertisements
+
 Buildings that grow:
 * Broad Street Station (Philadelphia): [Wikipedia Page](https://en.wikipedia.org/wiki/Broad_Street_Station_(Philadelphia))
 * Intensification in South Tottenham: [Twitter Thread](https://twitter.com/SCP_Hughes/status/1466386603878891527)
