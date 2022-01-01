@@ -4,6 +4,7 @@ I'm using this repository for links, thoughts and hobbies.
 
 ### Repositories 
 * **[`fattails`](https://github.com/FergM/fattails)** probability and statistics notes and python code
+* **[`Fergal's Blog`](https://github.com/FergM/chronological-blog)** chronologically ordered blog posts on random topics.
 * **[`crypto`](https://github.com/FergM/crypto)** notes and python code
 
 ### Hobbies
