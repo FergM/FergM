@@ -49,6 +49,11 @@ One Dominant City
 * England
 
 # Rolling
+Recent Traditional Buildings:
+* Or at least ones that are not as old as you might think.
+* Swaminarayan Akshardham (Delhi) - [Consecrated 2005](https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi))
+* Sacré-Cœur, Paris  - [Consecrated 1919](https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris)
+
 Houses that look like houses:
 * Nowadays houses don't always look like houses
 * However often when the objective is to look good, traditional house designs are still chosen.
