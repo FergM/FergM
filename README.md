@@ -6,7 +6,7 @@ I'm using this repository for links, thoughts and hobbies.
 #### Probability
 Fat Tailed Statistics
 * Things related to *Statistical Consequences of Fat Tails* by Nassim Taleb.
-* My Python Notebooks: [Link](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
+* My [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
 * Reading Group: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * Has video links to recorded sessions
 
