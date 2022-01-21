@@ -48,7 +48,7 @@ One Dominant City
 * Ireland
 * England
 
-# Rolling
+# Rough Notes
 Recent Traditional Buildings:
 * Or at least ones that are not as old as you might think.
 * Swaminarayan Akshardham (Delhi) - [Consecrated 2005](https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi))
