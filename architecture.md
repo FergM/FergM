@@ -49,6 +49,14 @@ One Dominant City
 * England
 
 # Rough Notes
+London Buildings
+* **Natural History Museum** (1881)
+    * [Alfred Waterhouse building](https://www.nhm.ac.uk/discover/alfred-waterhouse-museum-building-cathedral-to-nature.html)
+    * Provisionally top 10 London Buildings
+* Palace of Westminster (~1862)
+* Brompton Oratory - [Consecrated 1884](https://en.wikipedia.org/wiki/Brompton_Oratory)
+* Roupell Street
+
 Recent Traditional Buildings:
 * Or at least ones that are not as old as you might think.
 * Swaminarayan Akshardham (Delhi) - [Consecrated 2005](https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi))
