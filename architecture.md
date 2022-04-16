@@ -54,6 +54,9 @@ London Buildings
     * [Alfred Waterhouse building](https://www.nhm.ac.uk/discover/alfred-waterhouse-museum-building-cathedral-to-nature.html)
     * Provisionally top 10 London Buildings
 * Palace of Westminster (~1862)
+* Bank of England
+    * [Rebuilding](https://www.bankofengland.co.uk/museum/online-collections/archive-gallery/rebuilding-of-the-bank)
+    * [Herbert Baker - Rebuild Architect](https://www.bankofengland.co.uk/museum/online-collections/archive-gallery/the-herbert-baker-bank) 
 * Brompton Oratory - [Consecrated 1884](https://en.wikipedia.org/wiki/Brompton_Oratory)
 * Roupell Street
 
