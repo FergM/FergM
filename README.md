@@ -12,7 +12,7 @@ Fat Tailed Statistics
 
 #### Architecture
 * [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites
-* Rough notes on [Architecture and Planning](./architecture.md)
+* Notes on [Architecture and Planning](https://github.com/FergM/architecture)
 
 #### History
 * Links about [Ancient Rome](./history.md#ancient-rome)
