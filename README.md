@@ -7,11 +7,11 @@ I'm using this repository for links, thoughts and hobbies.
 Fat Tailed Statistics
 * Things related to *Statistical Consequences of Fat Tails* by Nassim Taleb.
 * My [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
-* Reading Group: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
+* **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * Has video links to recorded sessions
 
 #### Architecture
-* [Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites
+* **[Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites**
 * Notes on [Architecture and Planning](https://github.com/FergM/architecture)
 
 #### History
