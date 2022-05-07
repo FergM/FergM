@@ -8,7 +8,7 @@ Fat Tailed Statistics
 * Things related to *Statistical Consequences of Fat Tails* by Nassim Taleb.
 * My [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
 * **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
-    * Has video links to recorded sessions
+    * With video links to past sessions
 
 #### Architecture
 * [My notes](https://github.com/FergM/architecture) on Architecture and Planning
