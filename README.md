@@ -11,8 +11,9 @@ Fat Tailed Statistics
     * Has video links to recorded sessions
 
 #### Architecture
+* [My notes](https://github.com/FergM/architecture) on Architecture and Planning
 * **[Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites**
-* Notes on [Architecture and Planning](https://github.com/FergM/architecture)
+* The Aesthetic City Podcast: [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
 
 #### History
 * Links about [Ancient Rome](./history.md#ancient-rome)
