@@ -10,6 +10,10 @@ Fat Tailed Statistics
 * **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * With video links to past sessions
 
+#### Programming
+Python Tools for the **Twitter API** 
+* [github.com/FergM/twitter-tools](https://github.com/FergM/twitter-tools)
+
 #### Architecture
 * [My notes](https://github.com/FergM/architecture) on Architecture and Planning
 * **[Twitter List](https://twitter.com/i/lists/1322508700649750528) with my favourites**
