@@ -1,6 +1,6 @@
 ### Hey, Fergal here! 👋
 
-I'm using this repository for links, thoughts and hobbies.
+I'm using this repository to share code and wider interests.
 
 ## Hobbies
 #### Probability
