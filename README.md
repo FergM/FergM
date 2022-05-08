@@ -11,8 +11,7 @@ Fat Tailed Statistics
     * With video links to past sessions
 
 #### Programming
-Python Tools for the **Twitter API** 
-* [github.com/FergM/twitter-tools](https://github.com/FergM/twitter-tools)
+* [`twitter-tools`](https://github.com/FergM/twitter-tools): Python tools for the **Twitter API** 
 
 #### Architecture
 * [My notes](https://github.com/FergM/architecture) on Architecture and Planning
