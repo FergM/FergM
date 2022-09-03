@@ -10,8 +10,9 @@ Fat Tailed Statistics
 * **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * With video links to past sessions
 
-#### Programming
-* [`twitter-tools`](https://github.com/FergM/twitter-tools): Python tools for the **Twitter API** 
+Risk Mitigation
+* High level notes on investing and wealth preservation
+* Work in progress [here](https://github.com/FergM/risk-mitigation)
 
 #### Architecture
 * [My notes](https://github.com/FergM/architecture) on Architecture and Planning
@@ -21,6 +22,8 @@ Fat Tailed Statistics
 #### History
 * Links about [Ancient Rome](./history.md#ancient-rome)
 
+#### Programming
+* [`twitter-tools`](https://github.com/FergM/twitter-tools): Python tools for the **Twitter API** (roughwork)
 
 ## Contact ✉
 How to reach me: 
