@@ -41,7 +41,8 @@ The Troubles and Northern Ireland (1960s-1998)
 * [Wikipedia Page](https://en.wikipedia.org/wiki/The_Troubles)
 
 ### 1970/80s Politics
-* *Yes, Taoiseach: Irish Politics from Behind Closed Doors* by Frank Dunlop
+*Yes, Taoiseach: Irish Politics from Behind Closed Doors*
+* Book by Frank Dunlop
 
 # Energy Markets
 *History of Electricity in Britain*
