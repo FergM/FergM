@@ -31,18 +31,18 @@ More Links:
 *The Diary of Samuel Pepys*
 * 17th Centuary Diarist
 
+# Irish History (and politics)
+### War of Independence (circa 1920s)
+*Michael Collins: A Biography*
+* Book by Tim Pat Coogan
+
+### 1970s & 80s
+* Yes, Taoiseach: Irish Politics from Behind Closed Doors by Frank Dunlop
+
 # Energy Markets
 *History of Electricity in Britain*
 * Web page by National Grid: [Here](https://www.nationalgrid.com/about-us/what-we-do/our-history/history-electricity-britain)
 
 *Power to the People: The Story of The National Grid*
-* By Rob Cochrane
-* 26 April 1985
-
-*Power to the People: The Story of The National Grid*
 * By Rob Cochrane in association with the Central Electricity Generating Board
 * Amazon Listing Suffix is: "History of the Electricity Grid" 26 April 1985
-
-# Irish History
-*Michael Collins: A Biography*
-* Book by Tim Pat Coogan
