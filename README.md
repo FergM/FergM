@@ -9,11 +9,14 @@ About
 * Things related to the *Statistical Consequences of Fat Tails* by Nassim Taleb.
 
 Selected Items
-* **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
+* **Reading Group**:
+    * [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * Videos of past sessions
     * Notes and code
-* **Entropy Blog**: [fattails/blog/](https://github.com/FergM/fattails/tree/main/blog)
-* [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
+* **Entropy Blog**:
+    * [fattails/blog/](https://github.com/FergM/fattails/tree/main/blog)
+* **Python Notebooks**:
+    * [fattails/notebooks/](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
 
 # Other
 ## Architecture
