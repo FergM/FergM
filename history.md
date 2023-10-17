@@ -31,12 +31,16 @@ More Links:
 *The Diary of Samuel Pepys*
 * 17th Centuary Diarist
 
-# Irish History (and politics)
+# Irish History
 ### War of Independence (circa 1920s)
 *Michael Collins: A Biography*
 * Book by Tim Pat Coogan
 
-### 1970s & 80s
+### The Troubles
+The Troubles and Northern Ireland (1960s-1998)
+* [Wikipedia Page](https://en.wikipedia.org/wiki/The_Troubles)
+
+### 1970/80s Politics
 * Yes, Taoiseach: Irish Politics from Behind Closed Doors by Frank Dunlop
 
 # Energy Markets
