@@ -51,3 +51,5 @@ The Troubles and Northern Ireland (1960s-1998)
 *Power to the People: The Story of The National Grid*
 * By Rob Cochrane in association with the Central Electricity Generating Board
 * Amazon Listing Suffix is: "History of the Electricity Grid" 26 April 1985
+* Cheap copies sometimes appear on World of Books
+
