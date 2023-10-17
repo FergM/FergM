@@ -6,7 +6,7 @@ I'm using this repository to share ideas and links.
 Main project: [`fattails`](https://github.com/FergM/fattails)
 
 About
-* Things related to *Statistical Consequences of Fat Tails* by Nassim Taleb.
+* Things related to the *Statistical Consequences of Fat Tails* by Nassim Taleb.
 
 Selected Items
 * **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
