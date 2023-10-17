@@ -3,7 +3,7 @@
 I'm using this repository to share ideas and links.
 
 ## Fat Tailed Statistics
-Main project: [`fattails`](https://github.com/FergM/fattails)
+Main project: [**`fattails`**](https://github.com/FergM/fattails)
 
 About
 * Things related to the *Statistical Consequences of Fat Tails* by Nassim Taleb.
@@ -17,7 +17,7 @@ Selected Items
 
 # Other
 ## Architecture
-* [My notes](https://github.com/FergM/architecture) on Architecture and Planning
+* [**My Notes**](https://github.com/FergM/architecture) on Architecture and Planning
 * **[Twitter List](https://twitter.com/i/lists/1322508700649750528) of accounts covering gentle density and traditional architecture**
 * The Aesthetic City Podcast: [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
 
