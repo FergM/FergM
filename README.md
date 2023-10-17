@@ -12,7 +12,7 @@ Selected Items
 * **Reading Group**: [techincertoreadingclub.com](http://www.techincertoreadingclub.com/)
     * Videos of past sessions
     * Notes and code
-* **Entropy Blog**: [`fattails/blog/`](https://github.com/FergM/fattails/tree/main/blog)
+* **Entropy Blog**: [fattails/blog/](https://github.com/FergM/fattails/tree/main/blog)
 * [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
 
 # Other
