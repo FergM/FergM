@@ -36,8 +36,8 @@ More Links:
 *Michael Collins: A Biography*
 * Book by Tim Pat Coogan
 
-### The Troubles
-The Troubles and Northern Ireland (1960s-1998)
+### The Troubles (1960s-1998)
+The Troubles and Northern Ireland 
 * [Wikipedia Page](https://en.wikipedia.org/wiki/The_Troubles)
 
 ### 1970/80s Politics
