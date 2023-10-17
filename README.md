@@ -1,6 +1,6 @@
 ### Hey, Fergal here! 👋
 
-I'm using this repository to share code and wider interests.
+I'm using this repository to share ideas and links.
 
 ## Fat Tailed Statistics
 Main project: [`fattails`](https://github.com/FergM/fattails)
