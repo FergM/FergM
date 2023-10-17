@@ -2,8 +2,7 @@
 
 I'm using this repository to share code and wider interests.
 
-## Hobbies
-#### Fat Tailed Statistics
+## Fat Tailed Statistics
 Main project: [`fattails`](https://github.com/FergM/fattails)
 
 About
@@ -16,19 +15,19 @@ Selected Items
 * **My Blog**: [`fattails/blog/`](https://github.com/FergM/fattails/tree/main/blog)
 * My [Python Notebooks](https://github.com/FergM/fattails/blob/main/notebooks/README.md)
 
-## Latent Interests
-#### Architecture
+# Other
+## Architecture
 * [My notes](https://github.com/FergM/architecture) on Architecture and Planning
 * **[Twitter List](https://twitter.com/i/lists/1322508700649750528) of accounts covering gentle density and traditional architecture**
 * The Aesthetic City Podcast: [iTunes](https://podcasts.apple.com/lu/podcast/the-aesthetic-city/id1613784991), [Spotify](https://open.spotify.com/show/4cU3tcGKXiziKGuvfd3KIa)
 
-#### Politics
+## Politics
 * DM for blog details
 
-#### History
+## History
 * Links about [Ancient Rome](./history.md#ancient-rome)
 
-## Contact ✉
+# Contact ✉
 How to reach me: 
 * `@MFergal` on [Twitter](https://twitter.com/MFergal)
 * Tweet at me directly if I don't spot the DM
