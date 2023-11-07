@@ -8,7 +8,7 @@ Suppose I Invent a new biotechnology. Do I have to prove that it is safe before 
 ##### Recommended Reading
 2023 Chaos Kings
 * Book by Scott Patterson
-* See Part III and chapter 18 in particular
+* See **Part III and chapter 18** in particular
 * Gives an easy to read context around the 2014 Taleb paper et al. paper
 
 2014 Taleb et al. Paper
