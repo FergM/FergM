@@ -19,5 +19,5 @@ Suppose I Invent a new biotechnology. Do I have to prove that it is safe before 
 
 2001 European Environment Agency **Case Studies**
 * Title: *Late lessons from early warnings:the precautionary principle **1896–2000***
-* Topics include: Asbestos, Mad Cod Disease and the Ozone Layer
+* Topics include: Asbestos, Mad Cow Disease and the Ozone Layer
 * [Link](https://www.eea.europa.eu/publications/environmental_issue_report_2001_22)
