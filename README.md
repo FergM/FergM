@@ -2,6 +2,14 @@
 
 I'm using this repository to share ideas and links.
 
+Sections:
+* [Fat Tailed Statistics](#fat-tailed-statistics)
+* [Other](#other)
+    1. [Architecture](#architecture)
+    2. [The Environment](#the-environment)
+    3. [History](#history)
+    4. [Politics](#politics)
+
 ## Fat Tailed Statistics
 Main project: [**`fattails`**](https://github.com/FergM/fattails)
 
@@ -29,6 +37,9 @@ Selected Items
 
 ## History
 * Links about [Ancient Rome](./history.md#ancient-rome)
+
+## The Environment
+* Notes about [The Precautionary Principle](./environment.md)
 
 # Contact ✉
 How to reach me: 
