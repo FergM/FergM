@@ -1,7 +1,7 @@
 # The Environment
 ## Philosophy
 ### The Precautionary Principle (PP)
-*The Precautionary Principle is all about where you put the [**burden of evidence**](https://en.wikipedia.org/wiki/Burden_of_proof_(law))*. Suppose I Invent a new biotechnology. Do I have to prove that it is safe before using it? Or can I use it as long as nobody has proven that it is unsafe? It follows that **for some risks it is much better to exercise caution and wait until something is proven safe**, rather than using/doing this thing too soon and later finding out that it was a mistake.
+*The Precautionary Principle is all about where you put the [**burden of evidence**](https://en.wikipedia.org/wiki/Burden_of_proof_(law))* when dealing with risks. Suppose I Invent a new biotechnology. Do I have to prove that it is safe before using it? Or can I use it as long as nobody has proven that it is unsafe? It follows that **for some risks it is much better to exercise caution and wait until something is proven safe**, rather than using/doing this thing too soon and later finding out that it was a mistake.
 
 2001 European Environment Agency **Case Studies**
 * Title: *Late lessons from early warnings:the precautionary principle **1896–2000***
